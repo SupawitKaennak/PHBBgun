@@ -1,4 +1,5 @@
-This is free template i use for beginning development website
+
+This is free template i use for beginning development my first website
 
 TITLE: 
 Savory - 100% Fully Responsive Free HTML5 Bootstrap Template
